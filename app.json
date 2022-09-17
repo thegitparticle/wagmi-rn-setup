@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "wagmi-rn-setup",
     "name": "wagmi-rn-setup",
     "slug": "wagmi-rn-setup",
     "version": "1.0.0",
