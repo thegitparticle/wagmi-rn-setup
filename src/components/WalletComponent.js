@@ -14,7 +14,7 @@ function WalletComponent() {
 			);
 		} else {
 			return (
-				<Pressable onPress={() => connector.createSession()}>
+				<Pressable onPress={() => connector.connect()}>
 					<Text style={styles.connect_button}>Connect</Text>
 				</Pressable>
 			);
